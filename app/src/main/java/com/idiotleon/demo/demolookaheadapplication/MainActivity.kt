@@ -112,17 +112,17 @@ fun LookaheadLayoutCoordinatesSample() {
                 Column {
                     item0()
                     item1()
-//                    Row {
-                    item2()
-                    item3()
-//                    }
+                    Row {
+                        item2()
+                        item3()
+                    }
                 }
             } else {
                 Row {
-//                    Row {
-                    item0()
-                    item1()
-//                    }
+                    Row {
+                        item0()
+                        item1()
+                    }
                     item2()
                     item3()
                 }
