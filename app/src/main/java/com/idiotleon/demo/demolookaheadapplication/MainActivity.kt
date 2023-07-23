@@ -119,7 +119,7 @@ fun LookaheadLayoutCoordinatesSample() {
                 }
             } else {
                 Row {
-                    Row {
+                    Column {
                         item0()
                         item1()
                     }
